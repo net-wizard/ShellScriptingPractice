@@ -1,0 +1,2 @@
+# ShellScriptingPractice
+Practicing Shell Script
